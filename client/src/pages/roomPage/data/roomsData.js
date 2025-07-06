@@ -16,7 +16,7 @@
 //   ],
 //   4: [
 //     "./public/03rooms/room (1).jpeg",
-//     "./public/03rooms/room (47).png",
+//     "./public/03rooms/room_47.png",
 //     "./public/03rooms/room (29).png",
 //   ],
 // }
@@ -58,7 +58,7 @@ export const roomsData = [
     roomType: "夢幻星空",
     images: [
       "/03rooms/room (1).jpeg",
-      "/03rooms/room (47).png",
+      "/03rooms/room_47.png",
       "/03rooms/room (29).png",
     ],
     title: "簡約帳篷|草原步調",

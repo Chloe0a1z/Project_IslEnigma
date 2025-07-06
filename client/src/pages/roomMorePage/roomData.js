@@ -101,7 +101,7 @@ export const rooms = [
     roomMemo: "***適合喜愛夜間探索的您，體驗專業天文導覽",
     images: [
       "../../public/roomMorePage/room (1).jpeg",
-      "../../public/roomMorePage/room (47).png",
+      "../../public/roomMorePage/room_47.png",
       "../../public/roomMorePage/room (29).png",
       "../../public/roomMorePage/room (8).jpg",
     ],
