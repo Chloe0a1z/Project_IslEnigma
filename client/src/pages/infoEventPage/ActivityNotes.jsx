@@ -30,11 +30,11 @@ const ActivityNotes = () => {
         </ul>
         <div className="imgContainer">
           <div className="imgbox">
-            <img src="./public/00myIcon/castle.png" alt="左側城堡" />
+            <img src="/00myIcon/castle.png" alt="左側城堡" />
             <div id="wheel">
               <FerrisWheel />
             </div>
-            <img src="./public/00myIcon/castle.png" alt="右側城堡" />
+            <img src="/00myIcon/castle.png" alt="右側城堡" />
           </div>
         </div>
       </div>

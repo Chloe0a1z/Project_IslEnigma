@@ -30,33 +30,33 @@ const MysteryNews = () => {
     // 模擬從 API 獲取主要新聞數據
     const fetchedNewsItems = [
       {
-        mainImage: "../../public/infoEventPage/07poster_banner/banner_17.png",
+        mainImage: "/infoEventPage/07poster_banner/banner_17.png",
         title: "「幻光森林」全新夜間光影秀",
         date: " 2024 / 10 / 1 - 10 / 31 熱門!",
         content:
           "準備迎接「幻光森林」的全新夜間光影秀！我們結合最先進的投影技術和音樂，為您呈現一場前所未有的視聽盛宴。在森林深處，光影交錯間，您將踏入一個充滿魔力的奇幻世界。每晚8點準時開演，持續90分鐘，讓您的感官體驗提升到新的高度。",
-        subImage: "../../public/infoEventPage/03rooms/room_47.png",
+        subImage: "/infoEventPage/03rooms/room_47.png",
         subTitle: "露營區推出「星空帳篷」主題住宿",
         subDate: " 2024 / 7 / 1 起 新推出!",
       },
       {
-        mainImage: "../../public/infoEventPage/03rooms/room_47.png",
+        mainImage: "/infoEventPage/03rooms/room_47.png",
         title: "露營區推出「星空帳篷」主題住宿",
         date: "2024 / 7 / 1 起 新推出!",
         content:
           "想要在星空下入眠嗎？「高級露營區」推出全新「星空帳篷」主題住宿。特製的透明帳篷頂部讓您躺在床上就能欣賞璀璨星空。每個帳篷都配備了望遠鏡和星圖，讓您輕鬆進行星空觀測。白天享受海島風光，夜晚沐浴星光，體驗難忘的露營之旅。",
-        subImage: "../../public/infoEventPage/07poster_banner/banner_10.webp",
+        subImage: "/infoEventPage/07poster_banner/banner_10.webp",
         subTitle: "「海底隧道」引進稀有深海生物展",
         subDate: "2025 / 2 /1 - 4 / 30",
       },
       {
         mainImage:
-          "../../public/infoEventPage/07poster_banner/banner_10.webp",
+          "/infoEventPage/07poster_banner/banner_10.webp",
         title: "「海底隧道」引進稀有深海生物展",
         date: "2025 / 2 /1 - 4 / 30 熱門!",
         content:
           "「海底隧道」即將迎來一批神秘的客人！我們與國際海洋研究所合作，引進了多種罕見的深海生物，包括發光的深海魚類和奇特的無脊椎動物。這些生物平時生活在數千米深的海底，現在您有機會近距離觀察它們的奇妙生態。",
-        subImage: "../../public/infoEventPage/07poster_banner/banner_17.png",
+        subImage: "/infoEventPage/07poster_banner/banner_17.png",
         subTitle: "「幻光森林」全新夜間光影秀",
         subDate: "2024 / 10 / 1 -  10 / 31",
       },
@@ -104,25 +104,25 @@ const MysteryNews = () => {
     // 獲取 MysteryNews2 的數據
     const fetchedMoreNewsItems = [
       {
-        image: "../../public/infoEventPage/07poster_banner/banner_19.jpg",
+        image: "/infoEventPage/07poster_banner/banner_19.jpg",
         title: "「夢幻漂布」升級：高級VR互動水舞秀",
         date: "2024年9月15日",
         content:
           "我們邀請了米其林星級主廚，精心打造七道式星際美食。每道菜品都靈感來自不同的星座，不僅美味更富創意。",
       },
       {
-        image: "../../public/infoEventPage/07poster_banner/food_13.png",
+        image: "/infoEventPage/07poster_banner/food_13.png",
         title: "「迷幻酒吧」新品上市：「幻境雞尾酒」系列",
         content:
           "全新「幻境雞尾酒」系列，結合獨特香料和視覺效果，帶來味蕾的奇幻旅程。",
       },
       {
-        image: "../../public/infoEventPage/03rooms/room_47.png",
+        image: "/infoEventPage/03rooms/room_47.png",
         title: "「夢境咖啡廳」推出「味覺幻象」下午茶",
         content: "顛覆對食物的認知，每一口都是味蕾的探索和驚喜。",
       },
       {
-        image: "../../public/infoEventPage/07poster_banner/banner_17.png",
+        image: "/infoEventPage/07poster_banner/banner_17.png",
         title: "「異域市集」舉辦「星際工藝品展銷會」",
         date: "2024年9月20日",
         content:
@@ -177,7 +177,7 @@ const MysteryNews = () => {
                     </div>
                     <div className="col-6 image-container">
                       <img
-                        src="../../public/infoEventPage/07poster_banner/banner (15).webp"
+                        src="/infoEventPage/07poster_banner/banner_15.webp"
                         alt=""
                         className="itemA image"
                       />
@@ -193,7 +193,7 @@ const MysteryNews = () => {
                   <div className="row no-gutters">
                     <div className="col-6 image-container">
                       <img
-                        src="../../public/infoEventPage/07poster_banner/food (13).png"
+                        src="/infoEventPage/07poster_banner/food_13.png"
                         alt=""
                         className="itemA image2"
                       />
@@ -223,7 +223,7 @@ const MysteryNews = () => {
                 <div className="col-12">
                   <a href="/ticketpage" className="ticketSection">
                     <img
-                      src="../../public/infoEventPage/00myIcon/ticket.png"
+                      src="/infoEventPage/00myIcon/ticket.png"
                       alt="Ticket"
                       className="ticketIcon"
                     />
@@ -284,7 +284,7 @@ const MysteryNews = () => {
                   <div className="flipCardInner">
                     <div className="flipCardFront">
                       <img
-                        src="../../public/infoEventPage//00myIcon/elef.png"
+                        src="/infoEventPage/00myIcon/elef.png"
                         alt="New Performer"
                         className="mainImage"
                       />
@@ -308,9 +308,9 @@ const MysteryNews = () => {
                     <div className="news-item">
                       <div className="news-image image-container">
                         <img
-                          src={`../../public/infoEventPage/07poster_banner/banner (${
+                          src={`/infoEventPage/07poster_banner/banner_${
                             index + 1
-                          }).webp`}
+                          }.webp`}
                           alt={news.title}
                         />
                       </div>
@@ -353,7 +353,7 @@ const MysteryNews = () => {
             <div className="col-lg-5 col-md-5 col-sm-12 leftColumn">
               <div className="topNews">
                 <img
-                  src="../../public/infoEventPage/07poster_banner/food (12).png"
+                  src="/infoEventPage/07poster_banner/food_12.png"
                   alt="迷幻酒吧"
                 />
                 <div className="content">
@@ -366,7 +366,7 @@ const MysteryNews = () => {
               </div>
               <div className="bottomNews">
                 <img
-                  src="../../public/infoEventPage/07poster_banner/food (14).png"
+                  src="/infoEventPage/07poster_banner/food_14.png"
                   alt="夢境咖啡廳"
                 />
                 <div className="content">
@@ -392,7 +392,7 @@ const MysteryNews = () => {
                 </div>
                 <div className="imageBlock  col-lg-8">
                   <img
-                    src="../../public/infoEventPage/07poster_banner/facilities (61).png"
+                    src="/infoEventPage/07poster_banner/facilities_61.png"
                     alt="星際美食"
                   />
                 </div>
@@ -400,7 +400,7 @@ const MysteryNews = () => {
               <div className="mainNews">
                 <div className="imageContainer">
                   <img
-                    src="../../public/infoEventPage/07poster_banner/food (93).png"
+                    src="/infoEventPage/07poster_banner/food_93.png"
                     alt="異域市集"
                   />
                 </div>

@@ -91,7 +91,7 @@ const Banner = () => {
       <div className="bannerContent">
         <div className="bannerLogo">
           <img
-            src="../../public/00logo/LogoType_Light_2.png"
+            src="/00logo/LogoType_Light_2.png"
             alt="神秘樂園logo"
           />
         </div>
@@ -129,7 +129,7 @@ const Banner = () => {
             <a href="/infoEventPage" className="menuItem">
               <span className="menuNumber">01</span>
               <div className="menuIcon">
-                <img src="../../public/00myIcon/event.png" alt="最新活動圖示" />
+                <img src="/00myIcon/event.png" alt="最新活動圖示" />
               </div>
               <p>最新活動</p>
             </a>
@@ -137,7 +137,7 @@ const Banner = () => {
               <span className="menuNumber">02</span>
               <div className="menuIcon">
                 <img
-                  src="../../public/00myIcon/park-info2.png"
+                  src="/00myIcon/park-info2.png"
                   alt="樂園須知圖示"
                 />
               </div>
@@ -146,14 +146,14 @@ const Banner = () => {
             <a href="#faqPage" className="menuItem">
               <span className="menuNumber">03</span>
               <div className="menuIcon">
-                <img src="../../public/00myIcon/faq.png" alt="常見問題圖示" />
+                <img src="/00myIcon/faq.png" alt="常見問題圖示" />
               </div>
               <p>常見問題</p>
             </a>
             <a href="/infoEventPage#todayActivities" className="menuItem">
               <span className="menuNumber">04</span>
               <div className="menuIcon">
-                <img src="../../public/00myIcon/time.png" alt="時間表圖示" />
+                <img src="/00myIcon/time.png" alt="時間表圖示" />
               </div>
               <p>活動時間</p>
             </a>
@@ -161,7 +161,7 @@ const Banner = () => {
               <span className="menuNumber">05</span>
               <div className="menuIcon">
                 <img
-                  src="../../public/00myIcon/advice.png"
+                  src="/00myIcon/advice.png"
                   alt="遊園建議圖示"
                 />
               </div>

@@ -26,7 +26,7 @@ const RoomBanner = () => {
       <div className="bannerContent">
         <div className="bannerLogo">
           <img
-            src="../../public/00logo/LogoType_Light_2.png"
+            src="/00logo/LogoType_Light_2.png"
             alt="神秘樂園logo"
           />
         </div>

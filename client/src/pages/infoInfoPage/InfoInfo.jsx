@@ -32,7 +32,7 @@ const InfoInfo = () => {
           content: "神秘海島，位於台灣東北太平洋",
           link: "#",
           details:
-            'islEnigma位於神秘海島上，遊客需在指定港口搭乘專屬接駁船（接Boat）前往。主要港口均設有接駁站，購票後即可獲得詳細交通資訊。<img class="img" src="../../public/00info/map.png" alt="a">',
+            'islEnigma位於神秘海島上，遊客需在指定港口搭乘專屬接駁船（接Boat）前往。主要港口均設有接駁站，購票後即可獲得詳細交通資訊。<img class="img" src="/00info/map.png" alt="a">',
         },
         {
           icon: "fas fa-ship",
@@ -64,7 +64,7 @@ const InfoInfo = () => {
           content: "多家特色餐廳和主題咖啡廳",
           link: "#",
           details:
-            '園內提供多樣化的餐飲選擇，包括星空餐廳、海洋美饌、夢境咖啡廳等。所有餐廳均提供素食選項。部分高級餐廳需提前預訂。園內禁止攜帶外食。<img class="img" src="../../public/00info/food (73).png" alt="a">',
+            '園內提供多樣化的餐飲選擇，包括星空餐廳、海洋美饌、夢境咖啡廳等。所有餐廳均提供素食選項。部分高級餐廳需提前預訂。園內禁止攜帶外食。<img class="img" src="/00info/food (73).png" alt="a">',
         },
         {
           icon: "fas fa-wheelchair",
@@ -104,7 +104,7 @@ const InfoInfo = () => {
           content: "入口處和園內提供收費寄物櫃",
           link: "#",
           details:
-            '園區入口、主要景點區域和餐飲區都設有自助儲物櫃。小型櫃（30x30x50cm）：每4小時$100，中型櫃（45x45x70cm）：每4小時$150，大型櫃（60x60x90cm）：每4小時$200。<img class="img" src="../../public/00info/locker.png" alt="a">',
+            '園區入口、主要景點區域和餐飲區都設有自助儲物櫃。小型櫃（30x30x50cm）：每4小時$100，中型櫃（45x45x70cm）：每4小時$150，大型櫃（60x60x90cm）：每4小時$200。<img class="img" src="/00info/locker.png" alt="a">',
         },
         {
           icon: "fas fa-paw",
